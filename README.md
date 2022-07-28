@@ -11,36 +11,6 @@
 - Profile verification with Bank account number
 
 
-
-
-#
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Demo
 
 link to demo 👁️
